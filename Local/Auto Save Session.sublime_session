@@ -1,0 +1,1106 @@
+{
+	"folder_history":
+	[
+		"/D/AppServ/www/studyPHP",
+		"/D/AppServ/www/studyPHP/demo1",
+		"/D/AppServ/www/studyPHP/11",
+		"/D/AppServ/studyPHP/demo1",
+		"/D/AppServ"
+	],
+	"last_version": 3143,
+	"last_window_id": 33,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 565.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"is_",
+						"is_string"
+					],
+					[
+						"op",
+						"option\tTag"
+					],
+					[
+						"Y",
+						"Y年m月d日"
+					],
+					[
+						"date_defaut",
+						"date_default_timezone_set"
+					],
+					[
+						"i",
+						"i"
+					],
+					[
+						"p",
+						"placeholder\tAttr"
+					],
+					[
+						"ech",
+						"echo"
+					],
+					[
+						"_",
+						"_REQUEST"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"ke",
+						"keyword"
+					],
+					[
+						"cell",
+						"cellspacing\tAttr"
+					],
+					[
+						"WEB",
+						"WEB_ADMIN"
+					],
+					[
+						"test",
+						"TESTARRAY"
+					],
+					[
+						"arr",
+						"array"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"arra",
+						"array"
+					],
+					[
+						"t",
+						"true"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 357.0,
+				"last_filter": "packagere",
+				"selected_items":
+				[
+					[
+						"packagere",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: $",
+						"Snippet: $GLOBALS['…']"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"them",
+						"File: Copy Path From Project Encoded"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"SideBar ",
+						"View: Toggle Side Bar"
+					]
+				],
+				"width": 430.0
+			},
+			"console":
+			{
+				"height": 164.0,
+				"history":
+				[
+					"git clone https://github.com/Yummygum/city-lights-sublime \"Theme - Flatland\"",
+					"git clone https://github.com/Yummygum/city-lights-sublime \"Theme - Citylights\"",
+					"git clone https://github.com/Yummygum/city-lights-sublime \"Theme - citylights\""
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/AppServ/www/studyPHP/hackerrank/30 Days of Code/day5.php",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Boxy Ocean.sublime-theme",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/Color Scheme - Default/Mariana.tmTheme",
+				"/D/AppServ/www/studyPHP/demo1/11-compoundType.php",
+				"/D/AppServ/www/studyPHP/demo1/13-type.php",
+				"/D/AppServ/www/studyPHP/demo1/21-magicConstants.php",
+				"/D/AppServ/www/studyPHP/demo1/16-type.php",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Preferences.sublime-settings",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/AppServ/www/studyPHP/hackerrank/30 Days of Code/test",
+				"/D/AppServ/www/studyPHP/hackerrank/30 Days of Code/day6.php",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/1.sublime-snippet",
+				"/D/AppServ/www/studyPHP/hackerrank/30 Days of Code/day4.php",
+				"/D/AppServ/www/studyPHP/hackerrank/30 Days of Code/day3.php",
+				"/D/AppServ/www/studyPHP/hackerrank/test",
+				"/D/AppServ/www/studyPHP/hackerrank/test.php",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+				"/D/AppServ/www/studyPHP/hackerrank/03",
+				"/D/AppServ/www/studyPHP/hackerrank/02.php",
+				"/D/AppServ/www/studyPHP/demo2/test1.php",
+				"/D/AppServ/www/studyPHP/demo2/test",
+				"/D/AppServ/www/studyPHP/demo1/test6.php",
+				"/C/Users/Azcon/Documents/NetSarang/Xftp/Temporary/functions [2].php",
+				"/C/Users/Azcon/Desktop/functions.php",
+				"/D/AppServ/www/studyPHP/test6.html",
+				"/D/AppServ/www/studyPHP/demo1/test4.html",
+				"/D/AppServ/www/studyPHP/test6.php",
+				"/D/AppServ/www/studyPHP/test1.php",
+				"/D/AppServ/www/studyPHP/demo2/test2.php",
+				"/D/AppServ/www/studyPHP/demo1/test/test.php",
+				"/D/AppServ/www/studyPHP/demo1/test5.php",
+				"/D/AppServ/www/studyPHP/demo1/chengfabiao.php",
+				"/D/AppServ/www/studyPHP/demo1/test/test1.php",
+				"/D/AppServ/www/studyPHP/demo1/44-test.php",
+				"/D/AppServ/www/studyPHP/demo1/43-switch.php",
+				"/D/AppServ/www/studyPHP/demo1/42-test.php",
+				"/D/AppServ/www/studyPHP/demo1/test3.html",
+				"/D/AppServ/www/studyPHP/demo1/40-testif.php",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+				"/D/AppServ/php7/php.ini",
+				"/D/AppServ/www/studyPHP/demo1/39-testif.php",
+				"/D/AppServ/www/studyPHP/demo1/test2.html",
+				"/D/AppServ/www/studyPHP/demo1/38-testif.php",
+				"/D/AppServ/www/studyPHP/demo1/test1.html",
+				"/D/AppServ/www/studyPHP/demo1/35-test.php",
+				"/D/AppServ/www/studyPHP/demo1/34-cuowu.php",
+				"/D/AppServ/www/studyPHP/demo1/33-luoji.php",
+				"/D/AppServ/www/studyPHP/demo1/31-bijiao.php",
+				"/D/AppServ/www/studyPHP/demo1/26-dizengdijian.php",
+				"/D/AppServ/www/studyPHP/demo1/30-test.php",
+				"/D/AppServ/www/studyPHP/demo1/28-test.php",
+				"/D/AppServ/www/studyPHP/demo1/29-fuzhi.php",
+				"/D/AppServ/www/studyPHP/demo1/demo.php",
+				"/D/AppServ/www/studyPHP/demo1/24-testlink.html",
+				"/D/AppServ/www/studyPHP/demo1/doSearch.php",
+				"/D/AppServ/www/studyPHP/demo1/doTest.php",
+				"/D/AppServ/www/studyPHP/demo1/22-reg.html",
+				"/D/AppServ/www/studyPHP/demo1/27-ord.php",
+				"/D/AppServ/www/studyPHP/demo1/25-suanshu.php",
+				"/D/AppServ/www/studyPHP/demo1/doReg.php",
+				"/D/AppServ/www/studyPHP/demo1/23-googleSearch.php",
+				"/D/AppServ/www/studyPHP/demo1/20-const.php",
+				"/D/AppServ/www/studyPHP/demo1/18-constant.php",
+				"/D/AppServ/www/studyPHP/demo1/19-define.php",
+				"/D/AppServ/www/studyPHP/19-ts.php",
+				"/D/AppServ/www/studyPHP/demo1/te",
+				"/D/AppServ/www/studyPHP/demo1/demo1/ee",
+				"/D/AppServ/www/studyPHP/d",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/D/AppServ/www/studyPHP/demo1/test/3-7.php",
+				"/D/AppServ/www/studyPHP/demo1/17-is.php",
+				"/F/learning/慕课 php从基础到原生开发/步骤1php初次体验/2变量和数据类型/4-variable.php",
+				"/D/AppServ/www/studyPHP/demo1/test/2-12.php",
+				"/D/AppServ/www/studyPHP/demo1/15-type.php",
+				"/D/AppServ/www/studyPHP/demo1/14-type.php",
+				"/D/AppServ/www/studyPHP/demo1/9-strnig.php",
+				"/D/AppServ/www/studyPHP/demo1/8-string.php",
+				"/D/AppServ/www/studyPHP/demo1/12-type.php",
+				"/D/AppServ/www/studyPHP/demo1/10-heredoc.php",
+				"/D/AppServ/www/studyPHP/demo1/test.php",
+				"/D/AppServ/www/studyPHP/demo1/t1.php",
+				"/C/Users/Azcon/AppData/Roaming/PIME/Rime/default.yaml",
+				"/C/Users/Azcon/AppData/Roaming/PIME/Rime/PIME.yaml",
+				"/C/Program Files (x86)/PIME/python/input_methods/rime/data/PIME.yaml",
+				"/C/Program Files (x86)/PIME/python/input_methods/rime/data/default.yaml",
+				"/C/Users/Azcon/AppData/Roaming/PIME/Rime/user.yaml",
+				"//DESKTOP-5OPNRB8/top gear/Top Gear - Season 18 [720p]/Top Gear - [18x01] - 2012.01.29 [720p x264 by FoV].chn.ass",
+				"//DESKTOP-5OPNRB8/top gear/Top Gear - Season 18 [720p]/Top Gear - [18x01] - 2012.01.29 [720p x264 by FoV].chn.srt",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/phpfmt/phpfmt.sublime-settings",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/phpfmt.sublime-settings",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/phpfmt/message",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/phpfmt/Default.sublime-keymap",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-keymap",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/D/AppServ/www/index.php",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/Localization.sublime-settings",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/Azcon/Documents/Tencent Files/645410943/FileRecv/hosts"
+			],
+			"find":
+			{
+				"height": 49.0
+			},
+			"find_in_files":
+			{
+				"height": 104.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"background",
+					"html",
+					"background",
+					"c594c5",
+					"normal",
+					"number",
+					"Comment",
+					"background",
+					"comment",
+					"ital"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 47.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.xdebug":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"hackerrank\\30 Days of Code\\day3.php"
+					],
+					[
+						"test",
+						"hackerrank\\30 Days of Code\\test"
+					],
+					[
+						"test6",
+						"test6.php"
+					],
+					[
+						"test4",
+						"demo1\\test4.html"
+					],
+					[
+						"test2",
+						"demo1\\test2.html"
+					],
+					[
+						"te",
+						"demo1\\24-testlink.html"
+					],
+					[
+						"de",
+						"demo1\\demo.php"
+					],
+					[
+						"reg",
+						"demo1\\22-reg.html"
+					],
+					[
+						"dote",
+						"demo1\\doTest.php"
+					],
+					[
+						"testl",
+						"demo1\\24-testlink.html"
+					],
+					[
+						"d",
+						"demo1\\doReg.php"
+					],
+					[
+						"22",
+						"demo1\\22-reg.html"
+					],
+					[
+						"do",
+						"demo1\\doReg.php"
+					],
+					[
+						"2",
+						"demo1\\22-reg.html"
+					],
+					[
+						"pi",
+						"C:\\Users\\Azcon\\AppData\\Roaming\\PIME\\Rime\\PIME.yaml"
+					],
+					[
+						"pime",
+						"C:\\Users\\Azcon\\AppData\\Roaming\\PIME\\Rime\\PIME.yaml"
+					],
+					[
+						"t",
+						"t1.php"
+					],
+					[
+						"k",
+						"ksd"
+					],
+					[
+						"t1",
+						"t1.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 194.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1021.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"date_defa",
+						"date_default_timezone_set"
+					],
+					[
+						"date_defau",
+						"date_default_timezone_get"
+					],
+					[
+						"date_dafu",
+						"date_default_timezone_set"
+					],
+					[
+						"date_timezon",
+						"date_timezone_set"
+					],
+					[
+						"is",
+						"is_null"
+					],
+					[
+						"func",
+						"func"
+					],
+					[
+						"func_get",
+						"func_get_args"
+					],
+					[
+						"is_",
+						"is_string"
+					],
+					[
+						"op",
+						"option\tTag"
+					],
+					[
+						"Y",
+						"Y年m月d日"
+					],
+					[
+						"date_defaut",
+						"date_default_timezone_set"
+					],
+					[
+						"i",
+						"i"
+					],
+					[
+						"p",
+						"placeholder\tAttr"
+					],
+					[
+						"ech",
+						"echo"
+					],
+					[
+						"_",
+						"_REQUEST"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"ke",
+						"keyword"
+					],
+					[
+						"cell",
+						"cellspacing\tAttr"
+					],
+					[
+						"WEB",
+						"WEB_ADMIN"
+					],
+					[
+						"test",
+						"TESTARRAY"
+					],
+					[
+						"arr",
+						"array"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"arra",
+						"array"
+					],
+					[
+						"t",
+						"true"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "",
+					"file": "/D/AppServ/www/studyPHP/2-arr.php0",
+					"file_size": 0,
+					"file_write_time": 131625499266216534,
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "",
+					"file": "/D/AppServ/www/studyPHP/demo4/2-arr.php",
+					"file_size": 0,
+					"file_write_time": 131625499440210066,
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 357.0,
+				"last_filter": "packagere",
+				"selected_items":
+				[
+					[
+						"packagere",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: $",
+						"Snippet: $GLOBALS['…']"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"them",
+						"File: Copy Path From Project Encoded"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"SideBar ",
+						"View: Toggle Side Bar"
+					]
+				],
+				"width": 430.0
+			},
+			"console":
+			{
+				"height": 164.0,
+				"history":
+				[
+					"git clone https://github.com/Yummygum/city-lights-sublime \"Theme - Flatland\"",
+					"git clone https://github.com/Yummygum/city-lights-sublime \"Theme - Citylights\"",
+					"git clone https://github.com/Yummygum/city-lights-sublime \"Theme - citylights\""
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/AppServ/www/studyPHP",
+				"/D/AppServ/www/studyPHP/demo4"
+			],
+			"file_history":
+			[
+				"/D/AppServ/www/studyPHP/demo4/test.php",
+				"/D/AppServ/www/studyPHP/demo4/te",
+				"/D/AppServ/www/studyPHP/demo4",
+				"/D/AppServ/www/studyPHP/microtime.php",
+				"/D/AppServ/www/studyPHP/uniqid.php",
+				"/D/AppServ/www/studyPHP/getdate.php",
+				"/D/AppServ/www/studyPHP/time.php",
+				"/D/AppServ/www/studyPHP/date.php",
+				"/D/AppServ/www/studyPHP/strtotime.php",
+				"/D/AppServ/www/studyPHP/test4.php",
+				"/D/AppServ/www/studyPHP/rand.php",
+				"/D/AppServ/www/studyPHP/round.php",
+				"/D/AppServ/www/studyPHP/number_format.php",
+				"/D/AppServ/www/studyPHP/fmod.php",
+				"/D/AppServ/www/studyPHP/test3.php",
+				"/D/AppServ/www/studyPHP/floor-ceil.php",
+				"/D/AppServ/www/studyPHP/pow-sqrt.php",
+				"/D/AppServ/www/studyPHP/max-min.php",
+				"/D/AppServ/www/studyPHP/test2.php",
+				"/D/AppServ/www/studyPHP/md5.php",
+				"/D/AppServ/www/studyPHP/sprintf.php",
+				"/D/AppServ/www/studyPHP/test1.php",
+				"/D/AppServ/www/studyPHP/str_sjeffle.php",
+				"/D/AppServ/www/studyPHP/explode.php",
+				"/D/AppServ/www/studyPHP/demo3/getExtension.php",
+				"/D/AppServ/www/studyPHP/demo3/strstr.php",
+				"/D/AppServ/www/studyPHP/demo3/strrev.php",
+				"/D/AppServ/www/studyPHP/demo3/test.php",
+				"/D/AppServ/www/studyPHP/demo3/strpos.php",
+				"/D/AppServ/www/studyPHP/demo3/substr.php",
+				"/D/AppServ/www/studyPHP/demo3/ltrim.php",
+				"/D/AppServ/www/studyPHP/demo3/zend.php",
+				"/D/AppServ/www/studyPHP/demo3/replace.php",
+				"/D/AppServ/www/studyPHP/demo3/str_replace.php",
+				"/D/AppServ/www/studyPHP/demo3/strlen.php",
+				"/D/AppServ/www/studyPHP/demo3/strtolower.php",
+				"/D/AppServ/www/studyPHP/demo2/hnot.php",
+				"/D/AppServ/www/studyPHP/demo2/test1.php",
+				"/D/AppServ/www/studyPHP/demo2/demo3/test.php",
+				"/D/AppServ/www/studyPHP/demo2/test4.php",
+				"/D/AppServ/www/studyPHP/demo2/testt.php",
+				"/D/AppServ/www/studyPHP/demo2/bubbling.php",
+				"/D/AppServ/www/studyPHP/demo2/anonymous.php",
+				"/D/AppServ/www/studyPHP/demo2/test7.php",
+				"/D/AppServ/www/studyPHP/demo2/test6.php",
+				"/D/AppServ/www/studyPHP/demo2/test5.php",
+				"/D/AppServ/www/studyPHP/demo2/test3.php",
+				"/D/AppServ/php7/php.ini",
+				"/C/Users/Azcon/Desktop/新建文件夹/SystemVersion.plist",
+				"/D/AppServ/www/studyPHP/demo2/test2.php",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/1.sublime-snippet",
+				"/D/AppServ/www/studyPHP/demo1/11-compoundType.php",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/Theme - City Lights/City-Lights.tmTheme",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/Color Scheme - Default/Mariana.tmTheme",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/Theme - City Lights/City-Lights.sublime-theme",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Boxy Ocean.sublime-theme",
+				"/D/AppServ/www/studyPHP/hackerrank/30 Days of Code/day5.php",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+				"/D/AppServ/www/studyPHP/demo1/13-type.php",
+				"/D/AppServ/www/studyPHP/demo1/21-magicConstants.php",
+				"/D/AppServ/www/studyPHP/demo1/16-type.php",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Preferences.sublime-settings",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/AppServ/www/studyPHP/hackerrank/30 Days of Code/test",
+				"/D/AppServ/www/studyPHP/hackerrank/30 Days of Code/day6.php",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/D/AppServ/www/studyPHP/hackerrank/30 Days of Code/day4.php",
+				"/D/AppServ/www/studyPHP/hackerrank/30 Days of Code/day3.php",
+				"/D/AppServ/www/studyPHP/hackerrank/test",
+				"/D/AppServ/www/studyPHP/hackerrank/test.php",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+				"/D/AppServ/www/studyPHP/hackerrank/03",
+				"/D/AppServ/www/studyPHP/hackerrank/02.php",
+				"/D/AppServ/www/studyPHP/demo2/test",
+				"/D/AppServ/www/studyPHP/demo1/test6.php",
+				"/C/Users/Azcon/Documents/NetSarang/Xftp/Temporary/functions [2].php",
+				"/C/Users/Azcon/Desktop/functions.php",
+				"/D/AppServ/www/studyPHP/test6.html",
+				"/D/AppServ/www/studyPHP/demo1/test4.html",
+				"/D/AppServ/www/studyPHP/test6.php",
+				"/D/AppServ/www/studyPHP/demo1/test/test.php",
+				"/D/AppServ/www/studyPHP/demo1/test5.php",
+				"/D/AppServ/www/studyPHP/demo1/chengfabiao.php",
+				"/D/AppServ/www/studyPHP/demo1/test/test1.php",
+				"/D/AppServ/www/studyPHP/demo1/44-test.php",
+				"/D/AppServ/www/studyPHP/demo1/43-switch.php",
+				"/D/AppServ/www/studyPHP/demo1/42-test.php",
+				"/D/AppServ/www/studyPHP/demo1/test3.html",
+				"/D/AppServ/www/studyPHP/demo1/40-testif.php",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+				"/D/AppServ/www/studyPHP/demo1/39-testif.php",
+				"/D/AppServ/www/studyPHP/demo1/test2.html",
+				"/D/AppServ/www/studyPHP/demo1/38-testif.php",
+				"/D/AppServ/www/studyPHP/demo1/test1.html",
+				"/D/AppServ/www/studyPHP/demo1/35-test.php",
+				"/D/AppServ/www/studyPHP/demo1/34-cuowu.php",
+				"/D/AppServ/www/studyPHP/demo1/33-luoji.php",
+				"/D/AppServ/www/studyPHP/demo1/31-bijiao.php",
+				"/D/AppServ/www/studyPHP/demo1/26-dizengdijian.php",
+				"/D/AppServ/www/studyPHP/demo1/30-test.php",
+				"/D/AppServ/www/studyPHP/demo1/28-test.php",
+				"/D/AppServ/www/studyPHP/demo1/29-fuzhi.php",
+				"/D/AppServ/www/studyPHP/demo1/demo.php",
+				"/D/AppServ/www/studyPHP/demo1/24-testlink.html",
+				"/D/AppServ/www/studyPHP/demo1/doSearch.php",
+				"/D/AppServ/www/studyPHP/demo1/doTest.php",
+				"/D/AppServ/www/studyPHP/demo1/22-reg.html",
+				"/D/AppServ/www/studyPHP/demo1/27-ord.php",
+				"/D/AppServ/www/studyPHP/demo1/25-suanshu.php",
+				"/D/AppServ/www/studyPHP/demo1/doReg.php",
+				"/D/AppServ/www/studyPHP/demo1/23-googleSearch.php",
+				"/D/AppServ/www/studyPHP/demo1/20-const.php",
+				"/D/AppServ/www/studyPHP/demo1/18-constant.php",
+				"/D/AppServ/www/studyPHP/demo1/19-define.php",
+				"/D/AppServ/www/studyPHP/19-ts.php",
+				"/D/AppServ/www/studyPHP/demo1/te",
+				"/D/AppServ/www/studyPHP/demo1/demo1/ee",
+				"/D/AppServ/www/studyPHP/d",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/D/AppServ/www/studyPHP/demo1/test/3-7.php",
+				"/D/AppServ/www/studyPHP/demo1/17-is.php",
+				"/F/learning/慕课 php从基础到原生开发/步骤1php初次体验/2变量和数据类型/4-variable.php",
+				"/D/AppServ/www/studyPHP/demo1/test/2-12.php"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"post-content",
+					"content",
+					"xdebug",
+					"max_nesting",
+					"background",
+					"rid_layout_control",
+					"color",
+					"background",
+					"html",
+					"background",
+					"c594c5",
+					"normal",
+					"number",
+					"Comment",
+					"background",
+					"comment",
+					"ital"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\AppServ\\www\\studyPHP"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/AppServ/www/studyPHP/2-arr.php0",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"_anf_new": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/AppServ/www/studyPHP/demo4/2-arr.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"_anf_new": "",
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 47.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.xdebug":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,2,-32000,-32000,-1,-1,931,580,307,1617",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"hackerrank\\30 Days of Code\\day3.php"
+					],
+					[
+						"test",
+						"hackerrank\\30 Days of Code\\test"
+					],
+					[
+						"test6",
+						"test6.php"
+					],
+					[
+						"test4",
+						"demo1\\test4.html"
+					],
+					[
+						"test2",
+						"demo1\\test2.html"
+					],
+					[
+						"te",
+						"demo1\\24-testlink.html"
+					],
+					[
+						"de",
+						"demo1\\demo.php"
+					],
+					[
+						"reg",
+						"demo1\\22-reg.html"
+					],
+					[
+						"dote",
+						"demo1\\doTest.php"
+					],
+					[
+						"testl",
+						"demo1\\24-testlink.html"
+					],
+					[
+						"d",
+						"demo1\\doReg.php"
+					],
+					[
+						"22",
+						"demo1\\22-reg.html"
+					],
+					[
+						"do",
+						"demo1\\doReg.php"
+					],
+					[
+						"2",
+						"demo1\\22-reg.html"
+					],
+					[
+						"pi",
+						"C:\\Users\\Azcon\\AppData\\Roaming\\PIME\\Rime\\PIME.yaml"
+					],
+					[
+						"pime",
+						"C:\\Users\\Azcon\\AppData\\Roaming\\PIME\\Rime\\PIME.yaml"
+					],
+					[
+						"t",
+						"t1.php"
+					],
+					[
+						"k",
+						"ksd"
+					],
+					[
+						"t1",
+						"t1.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"xdebug":
+				{
+					"hide_conflict": false
+				}
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 151.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 27,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

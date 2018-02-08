@@ -1,0 +1,12 @@
+{
+
+	"passes":["OnlyOrderUseClauses"],
+	"version":1,
+	"php_bin":"D:/AppServ/php7/php.exe",
+	"format_on_save":false,
+	"enable_auto_align":true,
+	"indent_with_space":true,
+	"psr1":true,
+	"psr1_naming":true,
+	"psr2":true
+}

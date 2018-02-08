@@ -1,0 +1,20 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Boxy Theme",
+		"ChineseLocalizations",
+		"CodeFormatter",
+		"ConvertToUTF8",
+		"IMESupport",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"Theme - City Lights",
+		"Xdebug Client"
+	]
+}

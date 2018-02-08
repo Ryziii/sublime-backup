@@ -1,0 +1,7 @@
+{
+	"D:/AppServ/www":
+	{
+		"url_testing":"http://localhost/",
+		"url_production" : ""
+	}
+}
