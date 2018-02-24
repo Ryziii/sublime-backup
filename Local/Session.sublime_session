@@ -551,6 +551,46 @@
 				"selected_items":
 				[
 					[
+						"goods",
+						"goodsId"
+					],
+					[
+						"good",
+						"goodsId"
+					],
+					[
+						"que",
+						"queryStr"
+					],
+					[
+						"page",
+						"pageStr"
+					],
+					[
+						"total",
+						"totalPage"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"update",
+						"updateSql"
+					],
+					[
+						"file",
+						"_FILES"
+					],
+					[
+						"name",
+						"nameLength"
+					],
+					[
+						"is_a",
+						"is_array"
+					],
+					[
 						"me",
 						"meta\tTag"
 					],
@@ -633,10 +673,6 @@
 					[
 						"fgets",
 						"fgetcsv"
-					],
-					[
-						"file",
-						"filename"
 					],
 					[
 						"is_wri",
@@ -751,26 +787,73 @@
 			"buffers":
 			[
 				{
+					"file": "/D/AppServ/www/studyPHP/mall/edit.php",
+					"settings":
+					{
+						"buffer_size": 5449,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/AppServ/www/studyPHP/mall/index.php",
+					"settings":
+					{
+						"buffer_size": 2917,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/AppServ/www/ecshop/index.php",
+					"settings":
+					{
+						"buffer_size": 12788,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/AppServ/www/studyPHP/mall/do_edit.php",
+					"settings":
+					{
+						"buffer_size": 2086,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/AppServ/www/studyPHP/mall/detail.php",
+					"settings":
+					{
+						"buffer_size": 3094,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
 					"file": "/D/AppServ/www/studyPHP/mall/lib/fun.php",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 4153,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/AppServ/www/studyPHP/mall/static/index.php",
+					"file": "/D/AppServ/www/studyPHP/mall/publish.php",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 6306,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/AppServ/www/studyPHP/lybDemo/delete.php",
+					"file": "/D/AppServ/www/studyPHP/mall/login_out.php",
 					"settings":
 					{
-						"buffer_size": 1609,
+						"buffer_size": 108,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -783,8 +866,8 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 357.0,
-				"last_filter": "",
+				"height": 310.0,
+				"last_filter": "insta",
 				"selected_items":
 				[
 					[
@@ -836,7 +919,7 @@
 						"View: Toggle Side Bar"
 					]
 				],
-				"width": 542.0
+				"width": 430.0
 			},
 			"console":
 			{
@@ -860,17 +943,42 @@
 			"expanded_folders":
 			[
 				"/D/AppServ/www/studyPHP",
-				"/D/AppServ/www/studyPHP/mall",
-				"/D/AppServ/www/studyPHP/mall/lib",
-				"/D/AppServ/www/studyPHP/mall/static"
+				"/D/AppServ/www/studyPHP/mall"
 			],
 			"file_history":
 			[
+				"/D/AppServ/www/studyPHP/mall/detail.php",
+				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/mall/detail.php",
+				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/mall/index.php",
+				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/gallery/style/index.css",
+				"/D/AppServ/www/studyPHP/mall/delete.php",
+				"/D/AppServ/www/studyPHP/mall/do_edit.php",
+				"/D/AppServ/www/studyPHP/mall/index.php",
+				"/D/AppServ/www/studyPHP/mall/login.php",
+				"/D/AppServ/www/studyPHP/mall/publish.php",
+				"/D/AppServ/www/studyPHP/mall/lib/fun.php",
+				"/D/AppServ/www/studyPHP/demo5/lib/file.func.php",
+				"/D/AppServ/www/studyPHP/mall/edit.php",
+				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/mall/edit.php",
+				"/D/AppServ/www/studyPHP/mall/register.php",
+				"/D/AppServ/www/studyPHP/demo1/22-reg.html",
+				"/D/AppServ/www/studyPHP/mall/msg.php",
+				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/mall/publish.php",
+				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/mall/msg.php",
+				"/D/AppServ/www/studyPHP/mall/static/js/layer/layer.js",
+				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/mall/login.php",
+				"/D/AppServ/www/studyPHP/lybDemo/delete.php",
+				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/gallery/login.html",
+				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/mall/register.php",
+				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/gallery/detail.html",
+				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/gallery/index.html",
+				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/mall/static/js/layer/layer.js",
+				"/C/Users/Azcon/AppData/Local/Temp/BNZ.5a856ab23ab72d7/register.php",
+				"/D/AppServ/www/studyPHP/mall/static/index.php",
 				"/D/AppServ/www/studyPHP/mall/lib/mall/static/index.php",
 				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/delete [2].php",
 				"/C/Users/Azcon/Desktop/webpage.html",
 				"/D/AppServ/www/studyPHP/lybDemo/add.php",
-				"/D/AppServ/www/studyPHP/lybDemo/delete.php",
 				"/D/AppServ/www/studyPHP/lybDemo/show.php",
 				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/show [2].php",
 				"/D/AppServ/www/studyPHP/mysql/3.php",
@@ -900,7 +1008,6 @@
 				"/D/AppServ/www/studyPHP/lybDemo/autocode.php",
 				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/阅/3mysql基础/mysql-demo/16.sql",
 				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/阅/3mysql基础/mysql-demo/15.sql",
-				"/D/AppServ/www/studyPHP/demo1/22-reg.html",
 				"/C/Users/Azcon/Pictures/Camera Roll/未确认 829596.crdownload",
 				"/D/AppServ/www/studyPHP/mysql/1.php",
 				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/3mysql基础/mysql-demo/14.sql",
@@ -921,7 +1028,6 @@
 				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/index [3].php",
 				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/index.php",
 				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/index [2].php",
-				"/D/AppServ/www/studyPHP/demo5/lib/file.func.php",
 				"/D/AppServ/www/studyPHP/demo5/lib/upload.html",
 				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/style [6].css",
 				"/C/Users/Azcon/Desktop/style.css",
@@ -968,32 +1074,7 @@
 				"/D/AppServ/www/studyPHP/demo5/7-fopen.php",
 				"/D/AppServ/www/studyPHP/demo5/test1.txt",
 				"/D/AppServ/www/studyPHP/demo5/test3.php",
-				"/D/AppServ/www/studyPHP/demo5/2-path.php",
-				"/D/AppServ/www/studyPHP/demo5/6-fopen.php",
-				"/D/AppServ/www/studyPHP/demo5/4-fileContent.php",
-				"/D/AppServ/www/studyPHP/demo5/5-fopen.php",
-				"/D/AppServ/www/studyPHP/demo5/3-fileCtrl.php",
-				"/D/AppServ/www/studyPHP/demo5/1-file.php",
-				"/D/AppServ/www/studyPHP/demo5/Day05/05.php",
-				"/D/AppServ/www/studyPHP/demo5/Day05/06.php",
-				"/D/AppServ/www/studyPHP/demo5/Day05/07.php",
-				"/C/Users/Azcon/AppData/Local/Temp/BNZ.5a7d7969715491c/01.php",
-				"/D/AppServ/www/studyPHP/demo4/7-reg.html",
-				"/D/AppServ/www/studyPHP/demo4/20-arr.php",
-				"/D/AppServ/www/studyPHP/test4.php",
-				"/D/AppServ/www/studyPHP/20-arr.php",
-				"/D/AppServ/www/studyPHP/demo4/tt",
-				"/D/AppServ/www/studyPHP/16-arr.php",
-				"/D/AppServ/www/studyPHP/userList.php",
-				"/D/AppServ/www/studyPHP/test2.php",
-				"/D/AppServ/www/studyPHP/14-arr.php",
-				"/D/AppServ/www/studyPHP/13-foreach.php",
-				"/D/AppServ/www/studyPHP/demo4/test1.php",
-				"/D/AppServ/www/studyPHP/demo4/10-arr.php",
-				"/D/AppServ/www/studyPHP/demo4/12-arr.php",
-				"/D/AppServ/www/studyPHP/demo4/9-arr.php",
-				"/D/AppServ/www/studyPHP/demo4/8-arr.php",
-				"/D/AppServ/www/studyPHP/demo4/test.php"
+				"/D/AppServ/www/studyPHP/demo5/2-path.php"
 			],
 			"find":
 			{
@@ -1012,6 +1093,48 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"SESSION",
+					"详情",
+					"退出",
+					"pagesize",
+					"total",
+					"titak",
+					"page",
+					"inc",
+					"imooc",
+					"from",
+					"rom",
+					"goods",
+					"\n}",
+					"}\n",
+					"增加商品更新是",
+					"server",
+					"content",
+					"goods",
+					"index",
+					"不存在",
+					"content",
+					"编辑",
+					"user",
+					"session",
+					"time",
+					"user",
+					"详情",
+					"mysqli_err",
+					"header",
+					"echo",
+					"md",
+					"var",
+					"header",
+					"heder",
+					"names",
+					"utf8",
+					"set",
+					"UTF",
+					"utf",
+					"header",
+					"yhmiput",
+					"password",
 					"action=\"#\"",
 					"submit",
 					"mysql",
@@ -1084,6 +1207,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"\n}"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1100,74 +1224,79 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/AppServ/www/studyPHP/mall/lib/fun.php",
+							"file": "/D/AppServ/www/studyPHP/mall/edit.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 0,
+								"buffer_size": 5449,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										1013,
+										1016
 									]
 								],
 								"settings":
 								{
-									"_anf_new": "",
-									"syntax": "Packages/PHP/PHP.sublime-syntax"
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 3168.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/D/AppServ/www/studyPHP/mall/static/index.php",
+							"file": "/D/AppServ/www/studyPHP/mall/index.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 0,
+								"buffer_size": 2917,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										2123,
+										2123
 									]
 								],
 								"settings":
 								{
-									"_anf_new": "",
-									"syntax": "Packages/PHP/PHP.sublime-syntax"
+									"is_init_dirty_state": true,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 1944.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
 							"buffer": 2,
-							"file": "/D/AppServ/www/studyPHP/lybDemo/delete.php",
+							"file": "/D/AppServ/www/ecshop/index.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1609,
+								"buffer_size": 12788,
 								"regions":
 								{
 								},
@@ -1181,13 +1310,163 @@
 								"settings":
 								{
 									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"translate_tabs_to_spaces": false
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3456.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/AppServ/www/studyPHP/mall/do_edit.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2086,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1065,
+										1065
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 912.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/AppServ/www/studyPHP/mall/detail.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3094,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										807,
+										807
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 576.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/AppServ/www/studyPHP/mall/lib/fun.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4153,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1768,
+										1768
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1721.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/AppServ/www/studyPHP/mall/publish.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6306,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2306,
+										2306
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2076.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/D/AppServ/www/studyPHP/mall/login_out.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 108,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										108,
+										108
+									]
+								],
+								"settings":
+								{
+									"_anf_new": "",
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 7,
 							"type": "text"
 						}
 					]
@@ -1233,7 +1512,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,1,-32000,-32000,-1,-1,712,407,88,1444",
+			"position": "0,0,1,-32000,-32000,-1,-1,900,588,32,1625",
 			"project": "",
 			"replace":
 			{
@@ -1247,12 +1526,40 @@
 				"selected_items":
 				[
 					[
-						"wi",
-						"lybDemo\\wish.php"
+						"",
+						"mall\\detail.php"
 					],
 					[
-						"",
-						"lybDemo\\delete.php"
+						"do_",
+						"mall\\do_edit.php"
+					],
+					[
+						"fun",
+						"mall\\lib\\fun.php"
+					],
+					[
+						"pu",
+						"mall\\publish.php"
+					],
+					[
+						"login",
+						"mall\\login.php"
+					],
+					[
+						"func.",
+						"demo5\\lib\\file.func.php"
+					],
+					[
+						"regi",
+						"mall\\register.php"
+					],
+					[
+						"reg",
+						"demo1\\22-reg.html"
+					],
+					[
+						"wi",
+						"lybDemo\\wish.php"
 					],
 					[
 						"de",
@@ -1305,10 +1612,6 @@
 					[
 						"te",
 						"demo1\\24-testlink.html"
-					],
-					[
-						"reg",
-						"demo1\\22-reg.html"
 					],
 					[
 						"dote",
@@ -1382,8 +1685,8 @@
 			"show_minimap": false,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 151.0,
+			"side_bar_visible": false,
+			"side_bar_width": 198.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
