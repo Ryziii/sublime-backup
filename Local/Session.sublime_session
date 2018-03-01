@@ -1,6 +1,11 @@
 {
 	"folder_history":
 	[
+		"/D/AppServ/www/MMSG",
+		"/D/AppServ/www/MMSG-ONLINE",
+		"/D/AppServ/www/MMSG1",
+		"/D/AppServ/www/MMSG - 副本",
+		"/D/AppServ/www/studyPHP/algotithm",
 		"/D/AppServ/www/studyPHP",
 		"/D/AppServ/www/studyPHP/demo1",
 		"/D/AppServ/www/studyPHP/11",
@@ -551,6 +556,70 @@
 				"selected_items":
 				[
 					[
+						"prev",
+						"prev"
+					],
+					[
+						"rmsgs",
+						"rmsgsTable"
+					],
+					[
+						"for",
+						"for\tfor …"
+					],
+					[
+						"Default_",
+						"DEFAULT_MODULE"
+					],
+					[
+						"serialize",
+						"serializeStr"
+					],
+					[
+						"testPri",
+						"testPrivateStatic"
+					],
+					[
+						"sa",
+						"sayHi"
+					],
+					[
+						"height",
+						"height"
+					],
+					[
+						"a",
+						"a"
+					],
+					[
+						"dog",
+						"dog"
+					],
+					[
+						"strto",
+						"strtolower"
+					],
+					[
+						"RandomS",
+						"RandomString"
+					],
+					[
+						"protected",
+						"protectedVar"
+					],
+					[
+						"private",
+						"privateVar"
+					],
+					[
+						"property",
+						"propertyVal"
+					],
+					[
+						"pic",
+						"pic"
+					],
+					[
 						"goods",
 						"goodsId"
 					],
@@ -609,10 +678,6 @@
 					[
 						"abs",
 						"absolute"
-					],
-					[
-						"for",
-						"foreach\tforeach …"
 					],
 					[
 						"bg",
@@ -787,75 +852,12 @@
 			"buffers":
 			[
 				{
-					"file": "/D/AppServ/www/studyPHP/mall/edit.php",
+					"file": "/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/phpwind [2].conf",
 					"settings":
 					{
-						"buffer_size": 5449,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/AppServ/www/studyPHP/mall/index.php",
-					"settings":
-					{
-						"buffer_size": 2917,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/AppServ/www/ecshop/index.php",
-					"settings":
-					{
-						"buffer_size": 12788,
+						"buffer_size": 1638,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/AppServ/www/studyPHP/mall/do_edit.php",
-					"settings":
-					{
-						"buffer_size": 2086,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/AppServ/www/studyPHP/mall/detail.php",
-					"settings":
-					{
-						"buffer_size": 3094,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/AppServ/www/studyPHP/mall/lib/fun.php",
-					"settings":
-					{
-						"buffer_size": 4153,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/AppServ/www/studyPHP/mall/publish.php",
-					"settings":
-					{
-						"buffer_size": 6306,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/AppServ/www/studyPHP/mall/login_out.php",
-					"settings":
-					{
-						"buffer_size": 108,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
 					}
 				}
 			],
@@ -866,10 +868,18 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 310.0,
-				"last_filter": "insta",
+				"height": 145.0,
+				"last_filter": "instal",
 				"selected_items":
 				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
 					[
 						"insta",
 						"Package Control: Install Package"
@@ -877,10 +887,6 @@
 					[
 						"packagere",
 						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
 					],
 					[
 						"in",
@@ -901,10 +907,6 @@
 					[
 						"them",
 						"File: Copy Path From Project Encoded"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
 					],
 					[
 						"remove",
@@ -942,139 +944,137 @@
 			},
 			"expanded_folders":
 			[
-				"/D/AppServ/www/studyPHP",
-				"/D/AppServ/www/studyPHP/mall"
 			],
 			"file_history":
 			[
-				"/D/AppServ/www/studyPHP/mall/detail.php",
-				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/mall/detail.php",
-				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/mall/index.php",
-				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/gallery/style/index.css",
-				"/D/AppServ/www/studyPHP/mall/delete.php",
-				"/D/AppServ/www/studyPHP/mall/do_edit.php",
-				"/D/AppServ/www/studyPHP/mall/index.php",
-				"/D/AppServ/www/studyPHP/mall/login.php",
-				"/D/AppServ/www/studyPHP/mall/publish.php",
-				"/D/AppServ/www/studyPHP/mall/lib/fun.php",
-				"/D/AppServ/www/studyPHP/demo5/lib/file.func.php",
-				"/D/AppServ/www/studyPHP/mall/edit.php",
-				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/mall/edit.php",
-				"/D/AppServ/www/studyPHP/mall/register.php",
-				"/D/AppServ/www/studyPHP/demo1/22-reg.html",
-				"/D/AppServ/www/studyPHP/mall/msg.php",
-				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/mall/publish.php",
-				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/mall/msg.php",
-				"/D/AppServ/www/studyPHP/mall/static/js/layer/layer.js",
-				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/mall/login.php",
-				"/D/AppServ/www/studyPHP/lybDemo/delete.php",
-				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/gallery/login.html",
-				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/mall/register.php",
-				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/gallery/detail.html",
-				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/gallery/index.html",
-				"/F/learning/1慕课 php从基础到原生开发/步骤4：PHP项目实战/1原生商城/mall/static/js/layer/layer.js",
-				"/C/Users/Azcon/AppData/Local/Temp/BNZ.5a856ab23ab72d7/register.php",
-				"/D/AppServ/www/studyPHP/mall/static/index.php",
-				"/D/AppServ/www/studyPHP/mall/lib/mall/static/index.php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/delete [2].php",
-				"/C/Users/Azcon/Desktop/webpage.html",
-				"/D/AppServ/www/studyPHP/lybDemo/add.php",
-				"/D/AppServ/www/studyPHP/lybDemo/show.php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/show [2].php",
-				"/D/AppServ/www/studyPHP/mysql/3.php",
-				"/D/AppServ/www/studyPHP/demo1/38-testif.php",
-				"/D/AppServ/www/studyPHP/demo4/22-msg.php",
-				"/D/AppServ/www/studyPHP/demo1/test1.html",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/delete.php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/wish.php",
-				"/D/AppServ/www/studyPHP/lybDemo/wish.php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/index [11].php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/show.php",
-				"/D/AppServ/www/studyPHP/lybDemo/index.php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/index [8].php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/index [9].php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/index [5].php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/index [7].php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/index [6].php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/wish [2].php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/wish [3].php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/config.default.php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/wp-config [3].php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/config.sample.inc [2].php",
-				"/C/Users/Azcon/Desktop/php.ini",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/config.sample.inc.php",
-				"/D/AppServ/www/studyPHP/demo1/demo.php",
-				"/D/AppServ/www/studyPHP/mysql/2.php",
-				"/D/AppServ/www/studyPHP/lybDemo/autocode.php",
-				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/阅/3mysql基础/mysql-demo/16.sql",
-				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/阅/3mysql基础/mysql-demo/15.sql",
-				"/C/Users/Azcon/Pictures/Camera Roll/未确认 829596.crdownload",
-				"/D/AppServ/www/studyPHP/mysql/1.php",
-				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/3mysql基础/mysql-demo/14.sql",
-				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/3mysql基础/mysql-demo/13.sql",
-				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/3mysql基础/mysql-demo/17.sql",
-				"/D/AppServ/www/phpMyAdmin/libraries/config.default.php",
-				"/D/AppServ/www/phpMyAdmin/version_check.php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/nginx.conf.default",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/nginx.conf.default.bak",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/nginx [2].conf",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/wp-config [2].php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/index [4].php",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/svg_gradient.php",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/sprites.css.php",
+				"/D/AppServ/www/MMSG-ONLINE/Application/Home/Controller/IndexController.class.php",
+				"/D/AppServ/www/MMSG-ONLINE/Application/Home/Controller/MsgController.class.php",
+				"/D/AppServ/www/MMSG/Application/Home/Controller/IndexController.class.php",
+				"/D/AppServ/www/MMSG-ONLINE/Application/Home/Controller/RmsgController.class.php",
+				"/D/AppServ/www/MMSG-ONLINE/Application/Home/View/layout.html",
+				"/D/AppServ/www/MMSG-ONLINE/Application/Home/Controller/UserController.class.php",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/config [3].php",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/phpwind.conf",
 				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/nginx.conf",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/users.php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/wp-config-sample.php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/wp-config.php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/wp-settings.php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/index [3].php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/index.php",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/index [2].php",
-				"/D/AppServ/www/studyPHP/demo5/lib/upload.html",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/style [6].css",
-				"/C/Users/Azcon/Desktop/style.css",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/style [3].css",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/style [4].css",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/style [5].css",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/style.css",
-				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/style [2].css",
-				"/C/Users/Azcon/Desktop/index.php",
-				"/D/AppServ/www/studyPHP/demo5/lib/test2.zip",
-				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/3mysql基础/mysql-demo/10.sql",
-				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/3mysql基础/mysql-demo/9.sql",
-				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/3mysql基础/mysql-demo/8.sql",
-				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/3mysql基础/mysql-demo/7.sql",
-				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/3mysql基础/mysql-demo/6.sql",
-				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/3mysql基础/mysql-demo/4.sql",
-				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/3mysql基础/mysql-demo/5.sql",
-				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/3mysql基础/mysql-demo/3.sql",
-				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/3mysql基础/mysql-demo/2.sql",
-				"/F/learning/1慕课 php从基础到原生开发/步骤3：PHP常用操作/3mysql基础/mysql-demo/1.sql",
-				"/D/AppServ/MySQL/my.ini",
-				"/C/Users/Azcon/AppData/Local/Temp/BNZ.5a7f0909d2e5614/mysql.chm",
-				"/D/AppServ/www/studyPHP/demo5/lib/doUpload.php",
-				"/D/AppServ/www/studyPHP/demo5/lib/test.php",
-				"/D/AppServ/www/studyPHP/demo5/lib/download.php",
-				"/D/AppServ/www/studyPHP/demo5/lib/download.html",
-				"/C/Users/Azcon/Desktop/functions.php",
-				"/C/Users/Azcon/Desktop/download.php",
-				"/D/AppServ/www/studyPHP/demo5/lib/2.zip",
-				"/D/AppServ/www/studyPHP/demo5/lib/1.zip",
-				"/D/AppServ/www/studyPHP/demo5/lib/a/22.txt",
-				"/D/AppServ/www/studyPHP/demo5/lib/1.txt",
-				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
-				"/D/AppServ/www/studyPHP/demo5/lib/1.tsxt",
-				"/D/AppServ/www/studyPHP/demo5/lib/a.txt",
-				"/C/Users/Azcon/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
-				"/C/Users/Azcon/Desktop/1.62.4_0/content_scripts/file_urls.css",
-				"/D/AppServ/www/studyPHP/demo5/2.txt",
-				"/D/AppServ/www/studyPHP/demo5/13-file_put+content.php",
-				"/D/AppServ/www/studyPHP/demo5/user.csv",
-				"/D/AppServ/www/studyPHP/demo5/10-fgetcsv.php",
-				"/D/AppServ/www/studyPHP/demo5/12-file-get-contents.php",
-				"/D/AppServ/www/studyPHP/demo5/8-test.php",
-				"/D/AppServ/www/studyPHP/demo5/7-fopen.php",
-				"/D/AppServ/www/studyPHP/demo5/test1.txt",
-				"/D/AppServ/www/studyPHP/demo5/test3.php",
-				"/D/AppServ/www/studyPHP/demo5/2-path.php"
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/README [2].md",
+				"/D/AppServ/www/MMSG-ONLINE/Application/Home/View/User/register.html",
+				"/D/AppServ/www/MMSG-ONLINE/Application/Home/View/User/login.html",
+				"/D/AppServ/www/MMSG-ONLINE/Application/Home/View/rmsg/recipemsg.html",
+				"/D/AppServ/www/MMSG-ONLINE/Application/Home/View/rmsg/editrmsg.html",
+				"/D/AppServ/www/MMSG-ONLINE/Application/Home/View/msg/viewmsg.html",
+				"/D/AppServ/www/MMSG-ONLINE/Application/Home/View/msg/index.html",
+				"/D/AppServ/www/MMSG-ONLINE/Application/Home/View/msg/editmsg.html",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/MMSG [2].conf",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/wordpress [2].conf",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/MMSG [3].conf",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/default.conf",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/phpwind.conf [2].bak",
+				"/D/AppServ/www/MMSG/Application/Home/Controller/UserController.class.php",
+				"/D/AppServ/www/MMSG/Application/Home/View/User/login.html",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/config [2].php",
+				"/D/AppServ/www/MMSG/Application/Home/View/layout.html",
+				"/C/Users/Azcon/Desktop/register.html",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/phpinfo.php",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/phpwind [2].conf",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/MMSG.conf",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/wordpress.conf",
+				"/C/Users/Azcon/Desktop/php-fpm.log",
+				"/C/Users/Azcon/Desktop/phpwind.log",
+				"/C/Users/Azcon/Desktop/http.log",
+				"/C/Users/Azcon/Desktop/error.log",
+				"/C/Users/Azcon/Desktop/access.log",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/config.php",
+				"/D/AppServ/www/MMSG/Application/Home/Controller/MsgController.class.php",
+				"/D/AppServ/www/MMSG/Application/Home/View/rmsg/editrmsg.html",
+				"/D/AppServ/www/MMSG/Application/Home/Controller/RmsgController.class.php",
+				"/D/AppServ/www/MMSG/Application/Home/Model/MsgsModel.class.php",
+				"/D/AppServ/www/MMSG/Application/Home/Model/RmsgsModel.class.php",
+				"/D/AppServ/www/MMSG/README.md",
+				"/D/AppServ/www/MMSG/Application/Home/View/rmsg/recipemsg.html",
+				"/D/AppServ/www/MMSG/Application/Home/View/msg/editmsg.html",
+				"/D/AppServ/www/MMSG/Application/Home/View/msg/index.html",
+				"/D/AppServ/www/MMSG/Application/Home/Model/UsersModel.class.php",
+				"/D/AppServ/www/MMSG/Application/Home/View/msg/addmsg.html",
+				"/D/AppServ/www/MMSG/Application/Home/View/msg/viewmsg.html",
+				"/C/Users/Azcon/Desktop/addmsg.html",
+				"/D/AppServ/www/MMSG/Application/Home/View/index/header.html",
+				"/D/AppServ/www/MMSG/Application/Home/View/index/footer.html",
+				"/D/AppServ/www/MMSG/Application/Home/View/index/index.html",
+				"/D/AppServ/www/MMSG/Application/Home/View/index/segment.html",
+				"/D/AppServ/www/MMSG/Application/Home/View/index/add.html",
+				"/D/AppServ/www/studyPHP/p-o/lybDemo/README.md",
+				"/D/AppServ/www/studyPHP/p-o/mall/README.md",
+				"/D/AppServ/www/MMSG/Application/Home/Conf/config.php",
+				"/D/AppServ/www/MMSG/ThinkPHP/Library/Think/Page.class.php",
+				"/D/AppServ/www/studyPHP/p-o/demo1/11-compoundType.php",
+				"/D/AppServ/www/MMSG/ThinkPHP/Library/Think/Model.class.php",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/config [5].php",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/config [4].php",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/nginx [4].conf",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/phpwind [3].conf",
+				"/D/AppServ/www/MMSG/index.php",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/phpwind [4].conf",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/config [6].php",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/phpwind [5].conf",
+				"/D/AppServ/www/MMSG1/Application/php.ini",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/UserController.class.php",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/phpwind.conf.bak",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/nginx [3].conf",
+				"/D/AppServ/www/MMSG/Application/Common/Conf/config.php",
+				"/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/nginx [2].conf",
+				"/D/AppServ/www/MMSG1/Application/Home/Controller/UserController.class.php",
+				"/D/AppServ/www/MMSG1/Application/Home/View/user/login.html",
+				"/D/AppServ/www/MMSG/Application/Home/View/user/login.html",
+				"/D/AppServ/www/MMSG1/Application/Common/Conf/config.php",
+				"/D/AppServ/www/MMSG/Application/Home/View/user/register.html",
+				"/D/AppServ/www/MMSG/Application/Runtime/Cache/Home/4385b9d102c03aa935a32174414c860b.php",
+				"/D/AppServ/www/MMSG/Application/Home/Model/Captcha.class.php",
+				"/C/Users/Azcon/AppData/Local/Temp/BNZ.5a96376fb70d4c3/config.php",
+				"/C/Users/Azcon/AppData/Local/Temp/BNZ.5a963754b706dcb/config.php",
+				"/D/AppServ/www/MMSG - 副本/Application/Common/Conf/config.php",
+				"/D/AppServ/www/MMSG/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php",
+				"/D/AppServ/www/studyPHP/mall",
+				"/D/AppServ/www/MMSG/Application/Home/Model/index.html",
+				"/D/AppServ/www/MMSG/Application/Home/Model/Users1Model.class.php",
+				"/C/Users/Azcon/AppData/Local/Temp/BNZ.5a94ff8a6ae7b0e/MsgController.class.php",
+				"/D/AppServ/www/studyPHP/algorithm/insertionSort.php",
+				"/D/AppServ/www/studyPHP/algorithm/test.php",
+				"/D/AppServ/www/MMSG/Application/Home/Controller/index.html",
+				"/D/AppServ/www/studyPHP/algorithm/insertionSort1.php",
+				"/D/AppServ/www/studyPHP/algorithm/selectionSort.php",
+				"/D/AppServ/www/studyPHP/algorithm/bobbulesort.php",
+				"/D/AppServ/www/MMSG/.htaccess",
+				"/D/AppServ/www/algotithm/insertionSort.php",
+				"/D/AppServ/www/algotithm/selectionSort.php",
+				"/C/Users/Azcon/AppData/Local/Temp/BNZ.5a93bcb31c16087/demo1.php",
+				"/C/Users/Azcon/Desktop/新建文本文档 (2).txt",
+				"/D/AppServ/Apache24/conf/httpd.conf",
+				"/D/AppServ/Apache24/conf/extra/httpd-vhosts.conf",
+				"/D/AppServ/Apache24/apache_servicefix.bat",
+				"/D/AppServ/Apache24/apache_start.bat",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/AppServ/www/studyPHP/27-magicMethod.php",
+				"/D/AppServ/www/studyPHP/22-abstrast.php",
+				"/D/AppServ/www/studyPHP/24-interface.php",
+				"/D/AppServ/www/studyPHP/25-DB.php",
+				"/D/AppServ/www/studyPHP/26-duotai.php",
+				"/D/AppServ/www/studyPHP/28-clone.php",
+				"/D/AppServ/www/studyPHP/oop/21-test.php",
+				"/D/AppServ/www/studyPHP/20-const.php",
+				"/D/AppServ/www/studyPHP/oop/19-test.php",
+				"/D/AppServ/www/studyPHP/oop/18-static.php",
+				"/D/AppServ/www/studyPHP/oop/9-test.php",
+				"/D/AppServ/www/studyPHP/oop/10-test.php",
+				"/D/AppServ/www/studyPHP/oop/12-test.php",
+				"/D/AppServ/www/studyPHP/oop/14-parent.php",
+				"/D/AppServ/www/studyPHP/oop/15-final.php",
+				"/D/AppServ/www/studyPHP/oop/16-test.php",
+				"/D/AppServ/www/studyPHP/oop/17-test.php",
+				"/D/AppServ/www/studyPHP/oop/test.php",
+				"/D/AppServ/www/studyPHP/oop/8-test.php",
+				"/D/AppServ/www/studyPHP/oop/6-test.php"
 			],
 			"find":
 			{
@@ -1085,6 +1085,10 @@
 				"height": 135.0,
 				"where_history":
 				[
+					"D:\\AppServ\\www\\MMSG1",
+					"D:\\AppServ\\www\\MMSG",
+					"D:\\AppServ\\MMSG",
+					"D:\\AppServ\\www\\studyPHP\\mall",
 					""
 				]
 			},
@@ -1093,113 +1097,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"SESSION",
-					"详情",
-					"退出",
-					"pagesize",
-					"total",
-					"titak",
-					"page",
-					"inc",
-					"imooc",
-					"from",
-					"rom",
-					"goods",
-					"\n}",
-					"}\n",
-					"增加商品更新是",
-					"server",
-					"content",
-					"goods",
-					"index",
-					"不存在",
-					"content",
-					"编辑",
-					"user",
-					"session",
-					"time",
-					"user",
-					"详情",
-					"mysqli_err",
-					"header",
-					"echo",
-					"md",
-					"var",
-					"header",
-					"heder",
-					"names",
-					"utf8",
-					"set",
-					"UTF",
-					"utf",
-					"header",
-					"yhmiput",
-					"password",
-					"action=\"#\"",
-					"submit",
-					"mysql",
-					"g['Servers'][$i]['use",
-					"ervers'][$i]['verbose",
-					"rvers'][$i]['ho",
-					"ers'][$i]['extension",
-					"rvers'][$i]['passwo",
-					"root",
-					"ervers'][$i]['nopasswor",
-					"wuruizhi",
-					"username",
-					"user",
-					"wuruizhi",
-					"admin",
-					"ervers'][$i]['passw",
-					"password",
-					"open_basedi",
-					"ob_gzhandl",
-					"body",
-					"wid",
-					"ccode",
-					"onclick",
-					"内容",
+					"'/__ROOT__/home",
+					"msg/",
 					"msg",
-					"password",
-					"servers'][$i]['user",
-					"servers'][",
-					"servers",
-					"$save",
-					"server",
-					"coe",
-					"coeji",
-					"退出",
-					"client",
-					"\n\t\t\t",
-					"uniname",
-					"uploadpa",
-					"move_",
-					"move",
-					"ext",
-					"uniname",
-					"tmp_name",
-					"move",
-					"文件移动失败",
-					"is_upload",
-					"uploadpath",
-					"sub",
-					"post-content",
+					"'/__ROOT__/home",
+					"home",
+					"多用户",
+					"home",
+					"<a",
+					"/home",
+					"<a hre",
+					"/home",
+					"pswd",
+					"/home",
+					"__ROOT__",
+					"/home",
+					"<a",
+					"image",
+					"<a",
+					"<a hre",
+					"url",
+					"get",
+					"msg",
+					"viewms",
+					"view",
+					"多用户",
+					"title",
+					"<a",
+					"image",
+					"index",
+					"msg",
+					"total",
+					"post",
+					"list",
+					"index",
+					"indx",
+					"cgi.fix_path",
+					"include ",
+					"include",
+					"include ena",
+					"view",
+					"reg",
+					"url",
+					"model",
+					"defa",
+					"php|",
+					"root",
+					"location",
+					"php",
+					"location /",
+					"appdebug",
+					"require",
+					"defile",
+					"APP_SUB_DOMAIN_RULES",
+					"url",
+					"您还没有登录",
+					"面包屑",
+					"<div id=\"content\">",
+					"<!-- 面包屑 -->",
+					"<!-- 面包屑 -->\n",
+					"where",
+					"find",
+					"::",
 					"content",
-					"xdebug",
-					"max_nesting",
-					"background",
-					"rid_layout_control",
-					"color",
-					"background",
-					"html",
-					"background",
-					"c594c5",
-					"normal",
-					"number",
-					"Comment",
-					"background",
-					"comment",
-					"ital"
+					"getmsgs",
+					"userps",
+					"parseFieldsMap",
+					"_map",
+					"parseFieldsMap",
+					"_map",
+					"model",
+					"lay",
+					"系统",
+					"操作系统",
+					"网络",
+					"home",
+					"DEFAULT_MO",
+					"default_mo",
+					"loadmodule ",
+					"listen",
+					"allowov",
+					"listen",
+					"LoadModule vhost_alias_modu",
+					"documentroot",
+					"servername",
+					"listen",
+					"httpd-v",
+					"AllowOverride ",
+					"test",
+					"phpwind",
+					"lis",
+					"index",
+					"location",
+					"wuruizhi",
+					"coeji",
+					"local",
+					"var",
+					"img",
+					"imgupload",
+					"img",
+					"失败",
+					"www.coeji.xyz/studyPHP/mall",
+					"<?php echo $_SERVER['PATH_TRANSLATED'].'mall/'; ?>",
+					"***",
+					"request",
+					"server",
+					"static",
+					"<?php echo $_SERVER['PHP_SELF']; ?>",
+					"http://www.coeji.xyz/mall",
+					"PHP_SELF_ROOT",
+					"DOCUMENT",
+					"HTTP_HOST",
+					"SERVER_NAME",
+					"REQUEST_URI",
+					"REQUST_URI",
+					"getcwd();",
+					"];",
+					"getcwd",
+					"http",
+					"_server[\"",
+					"document_root",
+					"document",
+					"static",
+					"mysqlini",
+					"mysql",
+					"sql",
+					"pagesize",
+					"SESSION",
+					"详情"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1207,10 +1232,25 @@
 				"regex": false,
 				"replace_history":
 				[
+					"__ROOT__.'/home",
+					"->",
+					"***",
+					"http://www.coeji.xyz/studyPHP/mall",
+					"www.coeji.xyz/studyPHP/mall",
+					"wuruizhi",
+					"http://www.coeji.xyz/studyPHP/mall",
+					"PHP_SELF",
+					"DOCUMENT_ROOT",
+					"HTTP_HOST",
+					"SERVER_NAME",
+					"REQUEST_URI",
+					"$_SERVER['REQUST_URI'];",
+					"getcwd();",
+					"HTTP_HOST",
 					"\n}"
 				],
 				"reverse": false,
-				"show_context": true,
+				"show_context": false,
 				"use_buffer2": true,
 				"whole_word": false,
 				"wrap": true
@@ -1219,254 +1259,47 @@
 			[
 				{
 					"path": "D:\\AppServ\\www\\studyPHP"
+				},
+				{
+					"path": "D:\\AppServ\\www\\MMSG-ONLINE"
+				},
+				{
+					"path": "D:\\AppServ\\www\\MMSG"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/AppServ/www/studyPHP/mall/edit.php",
+							"file": "/C/Users/Azcon/Desktop/冲击器/新建文件夹/Data/Settings/NetSarang/Xftp/Temporary/phpwind [2].conf",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 5449,
+								"buffer_size": 1638,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1013,
-										1016
+										382,
+										382
 									]
 								],
 								"settings":
 								{
-									"is_init_dirty_state": false,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 3168.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/AppServ/www/studyPHP/mall/index.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2917,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2123,
-										2123
-									]
-								],
-								"settings":
-								{
-									"is_init_dirty_state": true,
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1944.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/AppServ/www/ecshop/index.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 12788,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 3456.0,
+								"translation.y": 677.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/D/AppServ/www/studyPHP/mall/do_edit.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2086,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1065,
-										1065
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 912.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/D/AppServ/www/studyPHP/mall/detail.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3094,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										807,
-										807
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 576.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/D/AppServ/www/studyPHP/mall/lib/fun.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4153,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1768,
-										1768
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1721.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/D/AppServ/www/studyPHP/mall/publish.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 6306,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2306,
-										2306
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 2076.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/D/AppServ/www/studyPHP/mall/login_out.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 108,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										108,
-										108
-									]
-								],
-								"settings":
-								{
-									"_anf_new": "",
-									"syntax": "Packages/PHP/PHP.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
 							"type": "text"
 						}
 					]
@@ -1512,11 +1345,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,900,588,32,1625",
+			"position": "0,0,1,-32000,-32000,-1,-1,819,9,81,1271",
 			"project": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 92.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1525,6 +1358,42 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"pageclass",
+						"MMSG\\ThinkPHP\\Library\\Think\\Page.class.php"
+					],
+					[
+						"pagecla",
+						"MMSG\\ThinkPHP\\Library\\Think\\Page.class.php"
+					],
+					[
+						"111",
+						"studyPHP\\p-o\\demo1\\11-compoundType.php"
+					],
+					[
+						"usermo",
+						"MMSG\\Application\\Home\\Model\\UsersModel.class.php"
+					],
+					[
+						"userc",
+						"MMSG\\Application\\Home\\Controller\\UserController.class.php"
+					],
+					[
+						"usercon",
+						"MMSG\\Application\\Home\\Controller\\UserController.class.php"
+					],
+					[
+						"msg",
+						"MMSG\\Application\\Home\\Controller\\MsgController.class.php"
+					],
+					[
+						"sele",
+						"studyPHP\\algorithm\\selectionSort.php"
+					],
+					[
+						"19",
+						"oop\\19-test.php"
+					],
 					[
 						"",
 						"mall\\detail.php"
@@ -1685,8 +1554,8 @@
 			"show_minimap": false,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 198.0,
+			"side_bar_visible": true,
+			"side_bar_width": 157.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
