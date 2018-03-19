@@ -12,6 +12,8 @@
 		"ConvertToUTF8",
 		"DocBlockr",
 		"IMESupport",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
 		"Package Control",
 		"PackageResourceViewer",
 		"SideBarEnhancements",
